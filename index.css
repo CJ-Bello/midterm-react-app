@@ -1,0 +1,6 @@
+.statuscontainer {
+  display: flexbox;
+  padding: 5px 10px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
